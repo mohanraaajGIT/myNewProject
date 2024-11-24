@@ -10,6 +10,8 @@ public class NewProjectApplication {
 		SpringApplication.run(NewProjectApplication.class, args);
 		System.out.println("Hello from Google GIT Main branch ");
 		System.out.println("Hello from Goggle Git");
+		System.out.println("Hello from Google GIT Main branch 2");
+
 	}
 
 }
